@@ -17,8 +17,7 @@ This project is a **boilerplate** for **FastAPI** applications with authenticati
 
 ### 🔹 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/CarlosOliveira-23/fastapi-boilerplate
 ```
 
 ### 🔹 2️⃣ Create and Activate the Virtual Environment
